@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/elviobg/nodejs-curso-manguinho/issues"
   },
-  "homepage": "https://github.com/elviobg/nodejs-curso-manguinho#readme"
+  "homepage": "https://github.com/elviobg/nodejs-curso-manguinho#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.2.1"
+  }
 }

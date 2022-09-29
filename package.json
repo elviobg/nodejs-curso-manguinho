@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-curso-manguinho",
+  "version": "1.0.0",
+  "description": "Repositório para adicionas os códigos feitos durante o curso NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID do Rodrigo Manguinho na Udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elviobg/nodejs-curso-manguinho.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elviobg/nodejs-curso-manguinho/issues"
+  },
+  "homepage": "https://github.com/elviobg/nodejs-curso-manguinho#readme"
+}

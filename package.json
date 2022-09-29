@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --passWithNoTests",
+    "test:dev": "jest --passWithNoTests --watch",
     "test:staged": "jest --passWithNoTests",
     "lint:fix": "eslint 'src/**' --fix"
   },

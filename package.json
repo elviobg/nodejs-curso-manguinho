@@ -4,7 +4,7 @@
   "description": "Repositório para adicionas os códigos feitos durante o curso NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID do Rodrigo Manguinho na Udemy",
   "main": "index.js",
   "scripts": {
-    "test": "jest --passWithNoTests",
+    "test": "jest --passWithNoTests --coverage",
     "test:dev": "jest --passWithNoTests --watch",
     "test:staged": "jest --passWithNoTests",
     "lint:fix": "eslint 'src/**' --fix"

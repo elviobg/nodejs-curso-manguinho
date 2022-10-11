@@ -219,7 +219,7 @@ describe('SignUp Controller', () => {
     expect(httpResponse.body).toEqual(new ServerError())
   })
 
-  test('Retorna erro Sucesso 200 se receber dados válidos', async () => {
+  test('Retorna Sucesso 200 se receber dados válidos', async () => {
     const { sut } = makeSut()
     const httpRequest = {
       body: {
